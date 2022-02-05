@@ -9,7 +9,7 @@
 ***
 
 # How To Deploy And Deploy Password
-<div align="left"><a href="https://youtu.be/AKU7YVXxMbM"><img src="https://github.com/ravindu01manoj/ravindu01manoj/blob/main/media/20210814_230626.png" width="500" ></a></div>
+<div align="left"><a href="https://youtu.be/AKU7YVXxMbM"><img src="https://github.com/VimuwaTik/Whatsapp-Sew-Qween-Bot/blob/main/media/20210814_230626.png" width="500" ></a></div>
 
 
 ***
